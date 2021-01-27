@@ -6,10 +6,10 @@
         id        = "com.itvarsity.superheroapp"
         version   = "1.0.3">
 
-    <name>Superhero App</name>
+    <name>manu</name>
 
     <description>
-        The Superhero App is the second app that you will learn how to build in the IT varsity Apptrepreneur course.
+        menu app is the second app that you will learn how to build in the IT varsity Apptrepreneur course.
     </description>
 
     <author href="https://itvarsity.org" email="courses@itvarsity.org">
